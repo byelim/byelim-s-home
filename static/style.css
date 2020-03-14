@@ -20,3 +20,8 @@ body {
 .navbar-dark .navbar-brand {
     color: #861515;
 }
+a {
+    color: #eb2290e5;
+    text-decoration: none;
+    background-color: transparent;
+}
